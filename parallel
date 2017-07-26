@@ -1,0 +1,20 @@
+#! /bin/bash
+
+# Erase any old executable files
+rm *.out
+
+echo "The current directory contains: "
+ls
+
+# Compile parallel.cpp
+g++ -m64 -o parallel.out parallel.cpp
+
+# Execute the program
+./parallel.out
+
+
+
+
+
+
+

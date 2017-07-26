@@ -1,0 +1,10 @@
+http://delaunay.ecs.fullerton.edu/~mshafae/srl/TitanOpenGLKit_win.zip
+http://delaunay.ecs.fullerton.edu/~mshafae/srl/TitanOpenGLKit_osx.zip
+http://ipv4.download.thinkbroadband.com/10MB.zip
+http://ipv4.download.thinkbroadband.com/5MB.zip
+https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/annual_report_2009.pdf
+https://github.com/jamesward/play-load-tests/raw/master/public/10mb.txt
+http://www.mouser.com/catalog/catalogusd/648/dload/zip/embeddedsection.zip
+http://www.mouser.com/catalog/catalogusd/648/dload/zip/optosection.zip
+http://www.mouser.com/catalog/catalogusd/648/dload/pdf/WIRESECTION.pdf
+http://www.mouser.com/catalog/catalogusd/648/dload/pdf/CIRCUITSECTION.pdf

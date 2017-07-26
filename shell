@@ -1,0 +1,20 @@
+#! /bin/bash
+
+# Erase any old executable files
+rm *.out
+
+echo "The current directory contains: "
+ls -l
+
+# Compile shellskel.cpp
+g++ -m64 -o shellskel.out shellskel.cpp
+
+# Execute the program
+./shellskel.out
+
+
+
+
+
+
+
